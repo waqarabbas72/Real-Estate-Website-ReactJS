@@ -31,7 +31,7 @@
         color: var(--black);
         position: absolute;
         top: 3rem;
-        right: 4rem;
+        right: 1rem;
         background: white;
         flex-direction: column;
         font-weight: 500;

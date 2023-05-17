@@ -7,7 +7,7 @@ import data from '../../utils/accordion'
 
 const Value = () => {
     return (
-        <section className="v-wrapper">
+        <section className="v-wrapper" id='ourValue'>
             <div className="paddings innerWidth flexCenter v-container">
                 {/* Left-Side */}
                 <div className="v-left">
@@ -19,7 +19,7 @@ const Value = () => {
                 {/* Right-Side */}
                 <div className="flexColStart v-right">
                     <span className='orangeText'>Our Value</span>
-                    <span className='primaryText'>Vaue We Give To You</span>
+                    <span className='primaryText'>Value We Give To You</span>
                     <span className='secondaryText'>We always ready to help by providing best service to You <br />
                         We believe a good blace to live can make your life better.
                     </span>
